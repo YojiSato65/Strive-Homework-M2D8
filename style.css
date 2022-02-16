@@ -1,0 +1,35 @@
+.container-ex-1 {
+    border-radius: 10%;
+}
+
+col {
+    
+}
+
+.first-col {
+    height: 400px;
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.second-col-left {
+    height: 400px;
+    background-color: lightskyblue;
+}
+
+.second-col-right {
+    display: flex;
+}
+
+.third-col-1 {
+    background-color: rgb(246, 246, 198);
+    text-align: center;
+}
+.third-col-2 {
+    background-color: rgb(253, 253, 134);
+    text-align: center;
+}
+.third-col-3 {
+    background-color: rgb(255, 255, 0);
+    text-align: center;
+}
